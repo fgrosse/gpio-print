@@ -2,7 +2,6 @@
 <p align="center">A small command line tool to print the current status of GPIO pins.</p>
 <p align="center">
    <a href="https://github.com/fgrosse/gpio-print/releases"><img src="https://img.shields.io/github/tag/fgrosse/gpio-print.svg?label=version&color=brightgreen"></a>
-   <a href="https://github.com/fgrosse/gpio-print/actions/workflows/test.yml"><img src="https://github.com/fgrosse/gpio-print/actions/workflows/test.yml/badge.svg"></a>
    <a href="https://github.com/fgrosse/gpio-print/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-BSD--3--Clause-blue.svg"></a>
 </p>
 
